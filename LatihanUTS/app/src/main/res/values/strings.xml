@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">LatihanUTS</string>
+    <string name="list_pahlawan">List Pahlawan</string>
+    <string name="heroes_name">Heroes Name</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Soebroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Suekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Salah seorang ulama dan Khatib terkemuka di Yogyakarta pada masa itu</item>
+        <item>Jenderal TNI Anumerta Ahmad Yani; lahir di Purworejo, Jawa Tengah, 19 Juni 1922 -
+            Meninggal di lubang buaya, Jakarta , 1 Oktober 1965</item>
+
+        <item>Sutomo (Lahir di Surabaya, Jawa timur, 3 Oktober 1920 -
+            Meninggal di padang arafah, arab saudi</item>
+
+        <item>Jenderal TNI (Purn.) Gatot Soebroto (lahir di sumpiuh, bayumas,
+            Jawa Tengah 1907</item>
+
+        <item>Raden Mas Soewardi Soerjaningrat ( EBI : Suwardi Suryaningrat,
+            sejak 1922 menjadi Ki Hadjar Dewantara</item>
+
+        <item>Dr. Drs H. Muhammad Hatta, dikenal sebagai Bung Hatta,
+            lahir di Bukittinggi Sumatra Barat</item>
+
+        <item>Jenderal besar Raden Soedirman, lahir 24 januari 1916 -
+            meninggal 29 Januari 1950</item>
+
+        <item>Dr. (H.C) Ir. H. Soekarno, lahir di surabaya, jawa timur, 6 juni 1901</item>
+
+        <item>Prof. Mr. Dr. Soepomo, lahir di sukoharjo jawa tengah, 22 januari 1903</item>
+
+    </string-array>
+
+    <string-array name="photo">
+
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+
+    </string-array>
+
+
+</resources>

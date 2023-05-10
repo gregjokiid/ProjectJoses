@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ONIC Fans Apps</string>
+    <string name="newsTitle">News Title</string>
+    <string name="newsDetail">News Detail</string>
+    <string name="newsAuthor">News Author</string>
+    <string name="newsImage">News Image</string>
+
+    <string name="tournament">Turnamen</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Date</string>
+    <string name="platform">Platform</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+
+    <string name="date_label_set">Tanggal Turnamen</string>
+    <string name="date_button_set">Set Tanggal</string>
+    <string name="date_selected"></string>
+</resources>
